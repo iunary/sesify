@@ -21,4 +21,5 @@ Template support the following recipient varibales:
 
 # TODO
 
-- [] Add attachments
+- [-] Add attachments
+- [-] Tests
