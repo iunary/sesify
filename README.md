@@ -18,6 +18,11 @@ Template support the following recipient varibales:
 {{.Email}}
 ```
 
+## Csv format
+
+```
+email,firstname,lastname
+```
 
 # TODO
 
