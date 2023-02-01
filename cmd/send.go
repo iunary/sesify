@@ -35,7 +35,7 @@ var (
 // sendCmd represents the send command
 var sendCmd = &cobra.Command{
 	Use:   "send",
-	Short: "A brief description of your command",
+	Short: "send command",
 	PersistentPreRunE: func(cmd *cobra.Command, args []string) error {
 		// check if template file exists
 		if template != "" {

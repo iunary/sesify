@@ -13,7 +13,7 @@ import (
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "sesify",
-	Short: "A brief description of your application",
+	Short: "Simple email sender",
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
